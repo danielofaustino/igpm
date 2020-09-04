@@ -1,0 +1,55 @@
+body {
+  background: white; /* try type yellow */
+  color: #323232;
+
+  margin: 0;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  font-family: roboto;
+}
+.igpm{
+ 
+  padding-left: 15px;
+  padding-right: 15px;
+
+  }
+
+.igpm img{
+  height:80px
+}  
+
+
+
+.igpm h2{
+  color:#132846
+}
+
+
+.igpm .rent{
+  border-color:#cccccc; border-style:solid; padding:10px; font-size:19px; text-align:center; border-width:5px; border-radius:11px; background-color:#ffffff; font-style:none;  
+}
+
+.igpm button {
+
+	background:linear-gradient(to bottom, #132846 5%, #132846 100%);
+	background-color:#132846;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:12px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+
+
+.igpm #calculationIG{
+  color:green
+}
