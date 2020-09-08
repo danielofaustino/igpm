@@ -8,3 +8,7 @@ we'll create a post on our blog to let our clients calculate the igpm in their r
 
 
 ![ScreenShot](https://raw.github.com/danielofaustino/igpm/master/screenshot.png)
+
+
+
+https://playcode.io/664577/
